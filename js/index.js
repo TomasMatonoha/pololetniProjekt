@@ -38,7 +38,7 @@ let render = Render.create({
     options: {
       width,
       height,
-      wireframes: true,
+      wireframes: false,
       showAngleIndicator: false,
       background: "#000"
     }
